@@ -19,3 +19,7 @@
 ## Links
 * [Aurelio.net : Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
 * [Spring Initializr](https://start.spring.io/)
+* [Yq](https://mikefarah.gitbook.io/yq/)
+* [Jq](https://stedolan.github.io/jq/)
+* [Yaml](https://yaml.org/)
+* [Http Statuses](https://httpstatuses.com/)
