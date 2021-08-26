@@ -4,7 +4,6 @@
 * https://loiane.training/curso/java-basico
 * https://loiane.training/curso/java-intermediario
 
-
 ## Trilha complementar
 [Java](JAVA_COMPLEMENTAR.md)
 
@@ -14,5 +13,9 @@
 * [Livros](LIVROS.md)
 * [Comunidades](COMUNIDADES.md)
 
+## Outros
+* [API Rest](./api/index.md)
 
-
+## Links
+* [Aurelio.net : Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
+* [Spring Initializr](https://start.spring.io/)

@@ -22,6 +22,7 @@
 * Elias Nogueira
 * Joao Brito
 * Elder Moraes
+* Paula Santana
 
 ## Youtube
 1 -  Matheus Fidelis
