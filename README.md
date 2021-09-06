@@ -29,3 +29,4 @@
 * [Jq](https://stedolan.github.io/jq/) 
 * [SDKMan](https://sdkman.io/)
 * [Node Version Manager](https://github.com/nvm-sh/nvm)
+* [Python Version Management](https://github.com/pyenv/pyenv)

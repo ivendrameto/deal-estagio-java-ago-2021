@@ -23,6 +23,7 @@
 * Joao Brito
 * Elder Moraes
 * Paula Santana
+* Michelli Brito
 
 ## Youtube
 1 -  Matheus Fidelis
